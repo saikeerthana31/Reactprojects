@@ -11,11 +11,11 @@ The project is a React-based Notes Application with a Node.js + Express + TypeSc
 ```
 npm create vite@6.2.1
 ```
-<small><strong> Open the folder that the app is created: </strong></small>
+<small><strong>Open the folder that the app is created: </strong></small>
 ```
 cd app name
 ```
-<small><strong> To install the nodes: </strong></small>
+<small><strong>To install the nodes: </strong></small>
 ```
 npm install
 ```
@@ -23,5 +23,5 @@ npm install
 ```
 npm install bootstrap@5.3.3
 ```
-![]<img width="1298" alt="image" src="https://github.com/user-attachments/assets/f868f584-567f-4adb-a948-85d62bb1b363" />
-
+<small><strong>The final pic: </strong></small>
+<img width="1298" alt="image" src="https://github.com/user-attachments/assets/f868f584-567f-4adb-a948-85d62bb1b363" />
