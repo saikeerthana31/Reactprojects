@@ -1,7 +1,7 @@
 # Notes app (mini project - 1)
  
 
-The project is a React-based Notes Application with a Node.js + Express + TypeScript backend. It allows users to create, update, delete, and manage notes.
+The project is a React-based Notes Application with a Node.js + Express + TypeScript backend. It allows users to create, update, delete, searches notes and manage notes.
 
 ===== =========================== ===== To run ===== =========================== ===== 
 
