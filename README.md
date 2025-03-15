@@ -26,10 +26,13 @@ npm install bootstrap@5.3.3
 <small><strong>The final pic: </strong></small>
 <img width="1298" alt="image" src="https://github.com/user-attachments/assets/f868f584-567f-4adb-a948-85d62bb1b363" />
 
+
+
 # Text styling app (project - 2)
 
-
 This Text Styler project is a React + TypeScript application that allows users to input text and apply different font styles dynamically. 
+
+
 <small><strong> The main features include: </strong></small>
 <ul>
  <ol><strong> Live Text Styling: </strong> Users can type text and apply various font styles by clicking buttons. </ol>
