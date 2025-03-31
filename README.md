@@ -41,7 +41,11 @@ This Weather app project is a React + TypeScript application that allows users t
 
 <small><strong> The main features include: </strong></small>
 
-<ul> <ol><strong> Live Weather Updates: </strong> Users can search for any city and get real-time weather data.</ol> <ol><strong> Random City Weather: </strong> Displays a randomly selected city's weather forecast on app load.</ol> <ol><strong> Weekly Forecast: </strong> Shows a **7+ day** weather forecast with temperature and icons.</ol> <ol><strong> Enlarged Containers: </strong> The random city display and weekly forecast boxes are now wider for better readability.</ol> <ol><strong> Clear Weather Icons: </strong> Ensures proper visibility with a suitable background color.</ol> <ol><strong> Styled UI Design: </strong> Features a gradient background, large search bar, and a centered app name.</ol> <ol><strong> Responsive & Minimalist: </strong> Works smoothly on both mobile and desktop screens.</ol> </ul>
+<ul> 
+ <ol><strong> Live Weather Updates: </strong> Users can search for any city and get real-time weather data.
+ </ol> <ol><strong> Random City Weather: </strong> Displays a randomly selected city's weather forecast on app load.
+ </ol> <ol><strong> Weekly Forecast: </strong> Shows a 7 day weather forecast with temperature and icons.
+</ul>
 
 <small><strong> The final pic: </strong></small>
 <img width="1440" alt="weather-app" src="https://github.com/user-attachments/assets/afd9fb2d-5ed1-4fc5-8cce-d1fd7ab223c0" />
