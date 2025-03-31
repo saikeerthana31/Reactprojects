@@ -27,7 +27,6 @@ This Text Styler project is a React + TypeScript application that allows users t
  <ol><strong> Live Text Styling: </strong> Users can type text and apply various font styles by clicking buttons. </ol>
  <ol><strong> Predefined Fonts: </strong> Includes fonts like Rock Salt, WindSong, Pacifico, Monoton, and more.</ol>
  <ol><strong> Real-time Preview: </strong> The styled text updates instantly as users type or select a new font.</ol>
- <ol><strong> Minimal & Responsive UI: </strong> Styled using CSS & Bootstrap, with a clean, centered layout.</ol>
 </ul>
 
 <small><strong> The final pic: </strong></small>
