@@ -1,10 +1,18 @@
+# DASHBOARD
+
+It's the dashboard of the react projects that I  did.(When pressed on the project name, it displays the final pic of that particular project.
+
+<small><strong> The final pic: </strong></small>
+<img width="1436" alt="DashBoard" src="https://github.com/user-attachments/assets/5f96c35f-8a1e-45cf-9213-c5d84daa749d" />
+
+
 # Notes app (project - 1)
  
 
 The project is a React-based Notes Application with a Node.js + Express + TypeScript backend. It allows users to create, update, delete, searches notes and manage notes.
 
 <small><strong> The final pic: </strong></small>
-<img width="1298" alt="image" src="https://github.com/user-attachments/assets/f868f584-567f-4adb-a948-85d62bb1b363" />
+<img width="1298" alt="NotesApp" src="https://github.com/user-attachments/assets/f868f584-567f-4adb-a948-85d62bb1b363" />
 
 
 
@@ -22,7 +30,7 @@ This Text Styler project is a React + TypeScript application that allows users t
 </ul>
 
 <small><strong> The final pic: </strong></small>
-<img width="1436" alt="Screenshot 2025-03-16 at 3 49 51 AM" src="https://github.com/user-attachments/assets/c34cfddb-3270-4532-87a2-5e7497aca167" />
+<img width="1436" alt="TextStyler" src="https://github.com/user-attachments/assets/c34cfddb-3270-4532-87a2-5e7497aca167" />
 
 
 
