@@ -5,7 +5,7 @@ import "../styles/ProjectShowcase.css";
 
 import notesApp from "../assets/notes-app.png";
 import textStyler from "../assets/text-styler.png";
-// import Weatherapp from "../assets/";
+import weatherapp from "../assets/weather-app.png";
 
 interface Project {
   id: number;
@@ -16,7 +16,7 @@ interface Project {
 const projects: Project[] = [
   { id: 1, name: "Notes App", image: notesApp },
   { id: 2, name: "Text Styler", image: textStyler },
-  // { id: 3, name: "Weather App", image: Weatherapp},
+  { id: 3, name: "Weather App", image: weatherapp},
 ];
 
 const ProjectShowcase: React.FC = () => {
