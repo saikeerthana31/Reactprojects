@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../styles/ProjectShowcase.css"; 
+import "../styles/ProjectShowcase.css";
 
 import notesApp from "../assets/notes-app.png";
 import textStyler from "../assets/text-styler.png";
 import weatherapp from "../assets/weather-app.png";
+import bmi_calc from "../assets/BMI_calc.png";
 
 interface Project {
   id: number;
@@ -16,7 +17,8 @@ interface Project {
 const projects: Project[] = [
   { id: 1, name: "Notes App", image: notesApp },
   { id: 2, name: "Text Styler", image: textStyler },
-  { id: 3, name: "Weather App", image: weatherapp},
+  { id: 3, name: "Weather App", image: weatherapp },
+  { id: 4, name: "BMI Calculator", image: bmi_calc },
 ];
 
 const ProjectShowcase: React.FC = () => {
