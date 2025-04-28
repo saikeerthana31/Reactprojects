@@ -1,3 +1,15 @@
+# Notes app (project - 1)
+ 
+
+The project is a React-based Notes Application with a Node.js + Express + TypeScript backend. It allows users to create, update, delete, searches notes and manage notes.
+
+<small><strong> The final pic: </strong></small>
+<img width="1440" alt="NotesApp" src="https://github.com/user-attachments/assets/f868f584-567f-4adb-a948-85d62bb1b363" />
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
