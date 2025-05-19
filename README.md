@@ -1,6 +1,6 @@
 # DASHBOARD
 
-It's the dashboard of the react projects that I  did.(When pressed on the project name, it displays the final pic of that particular project.
+It's the dashboard of the react projects that I  did.(When pressed on the project name, it displays the final pic of that particular project.)
 
 <small><strong> The final pic: </strong></small>
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2544df7b-3f4c-478d-a04d-b4c4fc76713b" />
